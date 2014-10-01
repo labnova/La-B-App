@@ -1,0 +1,8 @@
+---------HEADER
+
+<header data-role="header" data-position="fixed" data-theme="a">
+	<button class="ui-btn-left ui-btn-icon-left  ui-arrow-icon-l ">Indietro</button>
+	<button class="ui-btn-right ui-icon-arrow-r ui-btn-icon-right" >Avanti</button>
+		<h1>La(B)App</h1>
+
+	</header>

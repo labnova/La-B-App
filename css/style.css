@@ -1,0 +1,58 @@
+li.ui-li-has-thumb img {
+	margin:10px;
+}
+
+#home, #blog, #foto, #video, #tweets, #videoPlayer {
+
+  background: -webkit-linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* W3C */
+        
+}
+
+#home .ui-controlgroup {
+	width:60%;
+	margin:0 auto;
+	max-width:200px;
+}
+
+
+#videoList h3 {
+	margin:15px 0 5px 0;
+	height:40px;
+	overflow: hidden;
+	font-size: 1em;
+}
+
+#videoList img {
+	display: block;
+	width:90%;
+}
+
+#videoPlayer h3, #myplayer p {
+	padding:0 5%;
+}
+
+#tweets .ui-listview li {
+	background: #EEE;
+	color:#666;
+	font-weight: normal;
+	border-top: 1px solid #888;
+	white-space: normal;
+	padding-top: 10px;
+}
+
+#tweets .ui-list-view a {
+	color:#555;
+}
+
+#tweets img {
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	-o-border-radius:10px;
+	border-radius:10px;
+	margin:10px;
+
+}
